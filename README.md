@@ -18,3 +18,8 @@ Invocation
 ==========
 
     python ./src/example.py
+
+Output
+======
+
+![][http://github.com/andrewbunday/PyHistorgram/raw/master/reference/aa_van_and_bike.jpg]
