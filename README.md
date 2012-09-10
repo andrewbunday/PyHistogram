@@ -22,4 +22,4 @@ Invocation
 Output
 ======
 
-![](http://github.com/andrewbunday/PyHistorgram/raw/master/reference/example.png)
+![](http://github.com/andrewbunday/PyHistogram/raw/master/reference/example.png)
